@@ -1,1 +1,1 @@
-zhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzhzh#本仓库是为了记录学习《Visual Studio 2015 高级编程（第6版）》这本书时的过程而创建的
+本仓库是为了记录学习《Visual Studio 2015 高级编程（第6版）》这本书时的过程而创建的
