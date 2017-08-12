@@ -6,3 +6,9 @@
       4.替换：Ctrl+H
       5.全屏模式：Shift+Alt+Enter
       6.剪贴板循环：Ctrl+Shift+V，遍历剪贴板上的项
+2017年8月12日-----P94~P165
+      还是复习Visual Studio 2015的基本操作，跳过一些没用过的介绍，在以后用到时再回来看，新学了以下快捷键
+      1.书签添加：Ctrl+K然后Ctrl+K。
+      2.书签查看：Ctrl+K然后Ctrl+W。
+      3.代码片段：拖拉块代码到工具框里，可生成代码片段
+      4.Surround with：Ctrl+K然后Ctrl+S
